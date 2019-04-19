@@ -3008,3 +3008,10 @@ body.is-menu-visible #menu {
     66.66% { background-color: #0000FF; }
     83.33% { background-color: #FF00FF; }
 }
+.row {
+  display: flex; /* equal height of the children */
+}
+.circle{
+  border-radius:50%;
+}
+
